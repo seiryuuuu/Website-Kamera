@@ -25,10 +25,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <header>
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="about.php">About Us</a></li>
-                <li><a href="services.php">Services</a></li>
-                <li><a href="contact.php">Contact</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.js">About Us</a></li>
+                <li><a href="services.js">Services</a></li>
+                <li><a href="contact.js">Contact</a></li>
             </ul>
         </nav>
     </header>
@@ -81,7 +81,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </ul>
         <p>Setelah pembayaran berhasil, Anda dapat mengambil kamera di toko kami dengan menunjukan butki pembayaran nya kepada kasir.</p>
 
-        <p><a href="index.php">Kembali ke halaman utama</a></p>
+        <p><a href="index.html">Kembali ke halaman utama</a></p>
     </section>
 
     <footer>
