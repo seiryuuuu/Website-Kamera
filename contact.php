@@ -27,7 +27,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 Rental Kamera Mika. All rights reserved.</p>
+        <p>&copy; 2023 Rental Kamera Mika. Rafi Mahrizky Yunanto Putra 2200018281 All rights reserved.</p>
     </footer>
 </body>
 </html>
